@@ -7,3 +7,8 @@ Backend do serwera IoT obsługujacy protokół MQTT.
 * SpringSecurity + JWT
 * JPA + Hibernate
 * PostgreSQL 10
+
+Wykorzystane Feature MQTT:
+* Autoryzacja node przed połączeniem z brokerem
+* sub/pub od zweryfikowanych node
+* broadcast danych do node
